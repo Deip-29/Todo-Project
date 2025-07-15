@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Todo-Project
+A clean and responsive ToDo list application built with React JS. Users can add, delete, and manage daily tasks with ease. This project showcases practical React concepts like components, props, hooks (useState), and conditional rendering. 
+>>>>>>> 1daef6fc625b71697993df7bb8b25f0cf4196da0
