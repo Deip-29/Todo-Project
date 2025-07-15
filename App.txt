@@ -1,0 +1,36 @@
+import { useState } from 'react'
+import reactLogo from './assets/react.svg'
+import viteLogo from '/vite.svg'
+import './App.css'
+import "./components/Netflix.css"
+import "./components/evv.css"
+import  {EventPropagation} from "./components/EventPropagation";
+// import {State} from "./components/hooks/State";
+import {DerivedState} from "./components/DerivedState";
+// import NetflixSeries from "./components/NetflixSeries";
+// import {Eventhandle} from "./components/EventHandle";
+// import {EventProps} from "./components/EventProps";
+// import {user} from "./components/DerivedState";
+// import { LiftingState } from './components/LiftingState'
+// import { ToggleSwitch } from './Porojects/ToggleSwitch/ToggleSwitch'
+
+
+export const App =()=>{
+  return(
+    <section className="container">
+      {/* <h1 className='card-heading'>List Oft BEST Netflix Series</h1> */}
+  {/* <NetflixSeries/> */}
+  {/* <Eventhandle/> */}
+  {/* <EventProps/> */}
+  {/* <EventPropagation/> */}
+  {/* < State/> */}
+  {/* < DerivedState />*/}
+  {/* <LiftingState/> */}
+  <ToggleSwitch/>
+  </section>
+
+
+
+  );
+};
+export default App;
