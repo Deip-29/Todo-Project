@@ -1,17 +1,32 @@
-<<<<<<< HEAD
-# React + Vite
+# 📝 ToDo List App – React JS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive ToDo List web application built using **React JS**. This project allows users to manage their daily tasks efficiently, with support for **localStorage** so your tasks stay even after refreshing or reopening the browser.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Add new tasks
+- 🗑️ Delete tasks
+- 💾 Save tasks in `localStorage` (auto-persistent)
+- ⚡ Real-time updates
+- 🧩 Modular & component-based architecture
+- 📱 Fully responsive design
+- 🎨 Clean UI with custom fonts
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Todo-Project
-A clean and responsive ToDo list application built with React JS. Users can add, delete, and manage daily tasks with ease. This project showcases practical React concepts like components, props, hooks (useState), and conditional rendering. 
->>>>>>> 1daef6fc625b71697993df7bb8b25f0cf4196da0
+---
+
+## 📂 Tech Stack
+
+- React JS
+- JavaScript (ES6+)
+- HTML5 + CSS3
+- LocalStorage API
+
+---
+
+## 📦 Installation & Setup
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/Deip-29/Todo-Project.git
